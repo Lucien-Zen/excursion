@@ -1,0 +1,26 @@
+/* General */
+
+* {
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 16px;
+    color: white;
+}
+
+body {
+    background-color: black;    
+}
+
+h1 {
+    font-size: 3.125rem;
+}
+
+a {
+    color: aquamarine;
+}
+
+.container {
+    text-align: center;
+}
+
+/* Header */
+
